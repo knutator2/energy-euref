@@ -1,0 +1,18 @@
+ 
+The data is shared under the Creative Commons Attribution License (cc-by)
+as found in http://opendefinition.org/licenses/cc-by/
+Specially important is the attribution section of the license:
+
+Section 3 – License Conditions.
+
+Your exercise of the Licensed Rights is expressly made subject to the following conditions.
+
+    Attribution.
+    If You Share the Licensed Material (including in modified form), You must:
+        retain the following if it is supplied by the Licensor with the Licensed Material:
+            identification of the creator(s) of the Licensed Material and any others 
+            designated to receive attribution, in any reasonable manner requested by the Licensor 
+            (including by pseudonym if designated);
+
+ 
+As Licensors, we require to be cited as Schneider Electric GmbH.

@@ -1,0 +1,15 @@
+ 
+MPCT_Uab        Tension Between phases A-B      V
+MPCT_Ubc        Tension Between phases B-C      V
+MPCT_Uca        Tension Between phases C-A      V
+MPCT_U1N        Tension Phase A to neutral      V
+MPCT_U2N        Tension Phase B to neutral      V
+MPCT_U3N        Tension Phase C to neutral      V
+NEP_PV  Photovoltaic Production (22 kWp)        kW
+Irradiation             W/m²
+Ambient_Temperature             °C
+Grid_Frequency  Averaged over minute    Hz
+Power_ChargingPoint_021         kW
+StatusFlag_ChargingPoint_021    0 – No Auto; 1 - No Charging; 2 – Charging; 3 – Fault   
+Power_ChargingPoint_022         kW
+StatusFlag_ChargingPoint_022    0 – No Auto; 1 - No Charging; 2 – Charging; 3 – Fault   
